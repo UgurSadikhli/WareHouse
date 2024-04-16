@@ -1,0 +1,11 @@
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\bin\Debug\WareHouseUI.exe.config
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\bin\Debug\WareHouseUI.exe
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\bin\Debug\WareHouseUI.pdb
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\obj\Debug\WareHouseUI.csproj.AssemblyReference.cache
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\obj\Debug\WareHouseUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\obj\Debug\WareHouseUI.Form1.resources
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\obj\Debug\WareHouseUI.Properties.Resources.resources
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\obj\Debug\WareHouseUI.csproj.GenerateResource.cache
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\obj\Debug\WareHouseUI.csproj.CoreCompileInputs.cache
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\obj\Debug\WareHouseUI.exe
+C:\Users\Ugur\Desktop\WareHouse\WareHouseUI\obj\Debug\WareHouseUI.pdb
